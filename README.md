@@ -11,7 +11,7 @@ Admin Panel: Administrators can add, edit, or remove products from the store and
 Product Reviews: Users can leave reviews and ratings for products. Order History: Users can view their past orders and order details. 
 
 
-Technologies 
+# Technologies 
 Frontend: 
 HTML, CSS, JavaScript 
 React.js for building the user interface 
@@ -26,7 +26,7 @@ Webpack for bundling assets
 npm for package management
 
 
-#Installation 
+# Installation 
 1. Copy this repository to your local machine
 2. Navigate to the project directory:
  cd online-store
@@ -44,13 +44,13 @@ npm start
 For the backend (from the server directory):
 npm start
 
-6.Open your web browser and access the website at http://localhost:3000.
-#Usage
+6. Open your web browser and access the website at http://localhost:3000.
+# Usage
 Visit the website and create an account to start shopping.
 Browse products, add items to your cart, and proceed to checkout.
 Administrators can log in to the admin panel to manage products and view orders.
 
-#Contributing
+# Contributing
 If you'd like to contribute to this project, please follow these steps:
 
 Fork the repository on GitHub.
