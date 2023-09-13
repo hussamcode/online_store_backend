@@ -49,15 +49,22 @@ npm start
 6. Open your web browser and access the website at http://localhost:3000.
 # Usage
 Visit the website and create an account to start shopping.
+
 Browse products, add items to your cart, and proceed to checkout.
+
 Administrators can log in to the admin panel to manage products and view orders.
 
 # Contributing
 If you'd like to contribute to this project, please follow these steps:
 
 Fork the repository on GitHub.
+
 Clone your forked repository to your local machine.
+
 Create a new branch for your feature or bug fix.
+
 Make your changes and commit them with clear and concise messages.
+
 Push your changes to your fork on GitHub.
+
 Create a pull request from your fork to the original repository.
