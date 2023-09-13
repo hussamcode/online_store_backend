@@ -10,6 +10,8 @@ Shopping Cart: Users can add products to their shopping cart for later purchase.
 Admin Panel: Administrators can add, edit, or remove products from the store and manage orders.
 Product Reviews: Users can leave reviews and ratings for products. Order History: Users can view their past orders and order details. 
 
+# Frontend 
+https://github.com/hussamcode/online_store_Frontend/blob/main/README.md
 
 # Technologies 
 Frontend: 
